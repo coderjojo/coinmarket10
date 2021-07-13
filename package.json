@@ -1,0 +1,16 @@
+{
+  "name": "coinmarketcap10",
+  "version": "1.0.0",
+  "description": "Nodejs Application to scrap top 10 coins from coinmarketcap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coderjojo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "*",
+    "express": "^4.17.1"
+  }
+}
